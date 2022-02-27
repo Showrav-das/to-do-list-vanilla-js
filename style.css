@@ -1,0 +1,10 @@
+.item{
+    list-style: none;
+}
+body{
+    text-align: center;
+}
+.delete{
+    margin-left: 10px;
+    margin-top: 10px;
+}
